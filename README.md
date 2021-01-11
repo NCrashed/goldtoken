@@ -69,6 +69,11 @@ Disadvantages:
 
 # Work estimation
 
+Phase1: 120 days
+Phase2: 120 days (overlapping with phase 1)
+Phase3: 180 days
+Total days: 500 days (with holidays)
+
 ## Token 
 
 Senior developer: 1
@@ -88,7 +93,7 @@ Hours: 500h
 
 Subtasks estimation:
 - Integrate base blockchain platform. 320h
-- Integrate token itself. 160h
+- Integrate token itself. 320h
 
 ## Project website 
 
@@ -107,8 +112,8 @@ Subtasks estimation:
 
 Graphic designer: 1
 Web frontend developer: 2
-Senior back developers: 2
-Middle back developers: 3
+Senior back developers: 4
+Middle back developers: 4
 
 Subtasks estimation:
 - Backend cryptocurrency nodes infrastructure (BTC and base blockchain + token). 160h.
@@ -120,11 +125,42 @@ Subtasks estimation:
 ## DEX option 
 
 Graphic designer: 1
-Web frontend developer: 2
-Senior back developers: 1
-Middle back developers: 1
+Web frontend developer: 3
+Senior back developers: 2
+Middle back developers: 2
 
 Subtasks estimation:
 - Atomic swap implementation in wallet. 320h
 - Visual design of trading info in website side (order book, processed orders, user order, price charts). 160h.
 - Implementation of webside trading info. 160h.
+
+# Team 
+
+| Member | Price $/m |
+----------------------
+| Senior | 5000      |
+| Middle | 3000      |
+| Graphic| 3000      |
+| Web    | 3000      |
+
+## DEX
+
+| Member | Count | Price $/m |
+------------------------------
+| Senior | 4     | 20000     |
+| Middle | 3     | 12000     |
+| Graphic| 1     |  3000     |
+| Web    | 2     |  6000     |
+| Team   |       | 41000     |
+
+## CEX
+
+| Member | Count | Price $/m |
+------------------------------
+| Senior | 6     | 30000     |
+| Middle | 5     | 15000     |
+| Graphic| 1     |  3000     |
+| Web    | 3     |  9000     |
+| Team   |       | 57000     |
+
+
