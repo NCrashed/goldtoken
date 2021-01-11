@@ -137,7 +137,7 @@ Subtasks estimation:
 # Team 
 
 | Member | Price $/m |
-----------------------
+|--------|-----------|
 | Senior | 5000      |
 | Middle | 3000      |
 | Graphic| 3000      |
@@ -146,7 +146,7 @@ Subtasks estimation:
 ## DEX
 
 | Member | Count | Price $/m |
-------------------------------
+|--------|-------|-----------|
 | Senior | 4     | 20000     |
 | Middle | 3     | 12000     |
 | Graphic| 1     |  3000     |
@@ -156,7 +156,7 @@ Subtasks estimation:
 ## CEX
 
 | Member | Count | Price $/m |
-------------------------------
+|--------|-------|-----------|
 | Senior | 6     | 30000     |
 | Middle | 5     | 15000     |
 | Graphic| 1     |  3000     |
