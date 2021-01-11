@@ -144,8 +144,8 @@ Subtasks estimation:
 |--------|-----------|
 | Senior | 5000      |
 | Middle | 3000      |
-| Graphic| 3000      |
-| Web    | 3000      |
+| Graphic| 1500      |
+| Web    | 2000      |
 
 ## DEX
 
@@ -153,9 +153,9 @@ Subtasks estimation:
 |--------|-------|-----------|
 | Senior | 4     | 20000     |
 | Middle | 3     | 12000     |
-| Graphic| 1     |  3000     |
-| Web    | 2     |  6000     |
-| Team   |       | 41000     |
+| Graphic| 1     |  1500     |
+| Web    | 2     |  2000     |
+| Team   |       | 35500     |
 
 ## CEX
 
@@ -163,8 +163,8 @@ Subtasks estimation:
 |--------|-------|-----------|
 | Senior | 6     | 30000     |
 | Middle | 5     | 15000     |
-| Graphic| 1     |  3000     |
-| Web    | 3     |  9000     |
-| Team   |       | 57000     |
+| Graphic| 1     |  1500     |
+| Web    | 3     |  2000     |
+| Team   |       | 48500     |
 
 
