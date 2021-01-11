@@ -74,6 +74,10 @@ Phase2: 120 days (overlapping with phase 1)
 Phase3: 180 days
 Total days: 500 days (with holidays)
 
+<img src="Project Outline.png"
+     alt="Project outline"
+     />
+
 ## Token 
 
 Senior developer: 1
