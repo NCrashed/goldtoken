@@ -32,7 +32,6 @@ We have already developed wallet for BTC that focused on user privacy (https://c
 Tasks:
 - Integrate base blockchain platform of token into wallet. E.x. ergo/liquid network. 
 - Integrate token itself that is based on blockchain from previous step.
-- Develop atomic swaps support.
 
 ## Project website
 
@@ -67,3 +66,65 @@ Disadvantages:
 - Costly infrastructure for servers.
 - Security requirements are higher. Possible hacking of custody leads to steal of all users funds. Requirements for email and 2FA authentification.
 - We need bigger team as tasks between wallet and CEX are not shareable, duplication of work.
+
+# Work estimation
+
+## Token 
+
+Senior developer: 1
+Hours: 320h
+
+Subtasks:
+- Choose the best backend for token.
+- Design emission protocol. For some backends there is requirement for preallocation of all tokens, for some not. Design what happens with token when gold is put to custody and what happens when token is redeemed.
+- Develop smart contracts.
+- Test and debug smart contracts in testnet network.
+
+## Wallet 
+
+Senior developer: 1
+Middle developer: 1 
+Hours: 500h 
+
+Subtasks estimation:
+- Integrate base blockchain platform. 320h
+- Integrate token itself. 160h
+
+## Project website 
+
+### Common part 
+Estimation of work that must be done in both design choices. Theese are Phase 1 and Phase 2.
+
+Graphic designer: 1
+Web developer: 1
+Middle back developers: 1
+
+Subtasks estimation:
+- Project landing with project description, faqs, content. 320h 
+- KYC system, admin subsystem, accounts. 320h
+
+## CEX option 
+
+Graphic designer: 1
+Web frontend developer: 2
+Senior back developers: 2
+Middle back developers: 3
+
+Subtasks estimation:
+- Backend cryptocurrency nodes infrastructure (BTC and base blockchain + token). 160h.
+- 2FA, signup, login, email verification. 160h.
+- Withdraw and deposit system. 160h.
+- Visual design of trading system (order book, processed orders, user order, price charts). 160h.
+- Implementation of trading system. 320h.
+
+## DEX option 
+
+Graphic designer: 1
+Web frontend developer: 2
+Senior back developers: 1
+Middle back developers: 1
+
+Subtasks estimation:
+- Atomic swap implementation in wallet. 320h
+- Visual design of trading info in website side (order book, processed orders, user order, price charts). 160h.
+- Implementation of webside trading info. 160h.
